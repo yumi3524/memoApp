@@ -21,7 +21,7 @@ export default function MemoDetailScreen() {
           買い物リスト買い物リスト買い物リスト買い物リスト買い物リスト買い物リスト買い物リスト
         </Text>
       </ScrollView>
-      <CircleBtn style={{ top: 160, botto: 'auto' }}>+</CircleBtn>
+      <CircleBtn style={{ top: 160, botto: 'auto' }} name="edit-2" />
     </View>
   );
 }
